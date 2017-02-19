@@ -11,5 +11,8 @@ This plugin was primarily built for [Minnie](https://github.com/kucrut/minnie).
 * WP API 2.0-beta13+
 
 ## Changelog
+### 0.2.0
+* Remove WP-API from dependencies
+
 ### 0.1.0
 * Initial

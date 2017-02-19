@@ -3,7 +3,7 @@
 /**
  * Plugin Name: Bridge: Post Formats
  * Description: Expose Post Formats in WP REST API.
- * Version: 0.1.0
+ * Version: 0.2.0
  * Author: Dzikri Aziz
  * Author URI: http://kucrut.org
  * Plugin URI: https://github.com/kucrut/wp-bridge-post-formats
